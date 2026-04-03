@@ -1,13 +1,13 @@
-# a-tkinter-falling-block-game-
-#the project looked simple, but i learned how to makae and moddify shapes using tk, which is my second #game, #where i mastered the using of conditions and variables, and also creating multiple windows for a #scoreboard
+## a-tkinter-falling-block-game-
+##the project looked simple, but i learned how to makae and moddify shapes using tk, which is my second game, #where i mastered the using of conditions and variables, and also creating multiple windows for a scoreboard
 
-#how to play
+##how to play
 1.run the code
 2. use 1, 2, 3 keys to move the character
 3. try to catch the falling blocks coming while scoring as much as you can
 4.enjoy
 
-
+------------------------------------------------------------------------------------------
 
 
 
