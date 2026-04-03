@@ -11,7 +11,7 @@ the project looked simple, but i learned how to makae and moddify shapes using t
 
 
 ## the code
-
+'''python
 import tkinter as tk
 import random
 from tkinter import messagebox
